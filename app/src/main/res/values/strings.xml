@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Floppy Bird</string>
+
+    <string name="Btn_Leave">Leave</string>
+    <string name="ScoreTXT">Score</string>
+    <string name="Score">0</string>
+    <string name="HighScoreTXT">Best</string>
+    <string name="HighScore">0</string>
+
+    <string name = "AboutMenu">About</string>
+    <string name = "LeaveMenu">Leave</string>
+
+    <!--About menu-->
+    <string name="DevelopedTXT">Developed By</string>
+    <string name="Developer">Jugraj Pandher</string>
+    <string name="Close">Close</string>
+
+</resources>
